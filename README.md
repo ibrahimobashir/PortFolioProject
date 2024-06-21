@@ -17,7 +17,7 @@ covidData: the primary data set is covidDeaths.xlsx and covidVaccination.xlsx
 
 
 TOOLS
-- EXCEL -Data Cleaning [Download here](htpps://miscrosoft.com)
+- EXCEL -Data Cleaning [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 - SQL Server -Data analysis
 
 
