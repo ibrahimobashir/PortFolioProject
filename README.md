@@ -12,6 +12,7 @@ Covid Data analysis project aim to get overwiew of the impact of covid on popula
 ## Data Sources
 
 RoadaccidentData: the primary dataset used is Road Accident Data.xlsx
+
 covidData: the primary data set is covidDeaths.xlsx and covidVaccination.xlsx
 
 
